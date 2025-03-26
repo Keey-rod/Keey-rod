@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keey-rod
-- 👀 I’m interested in coding, gaming, learning new things, reading, horror
+- 👀 I’m interested in coding, gaming, learning new thing
 - 🌱 I’m currently learning cybersecurity, python, java, sql, machine learning
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...
