@@ -14,13 +14,14 @@ I'm a dedicated and detail-oriented learner actively building skills in cybersec
 <details>
   <summary><strong>Featured Projects</strong> (Click to expand)</summary>
   
-  ### [Coffee Chat Bot](./code-academy-projects/Coffee%20Chatbot/coffee_chat_bot.py)
-  A command-line chatbot I built in Python that simulates a virtual coffee-ordering assistant.
+  ### Programming Projects
+  * [Coffee Chat Bot](https://github.com/Keey-rod/code-academy-projects/blob/main/Coffee%20Chatbot/coffee_chat_bot.py)
+    A command-line chatbot I built in Python that simulates a virtual coffee-ordering assistant.
   
   ---
   
   ### Security Labs & Capture The Flag (CTF) Exercises
-  * [Disgruntled Room Walkthrough](./try-hackme-labs/disgruntled/disgruntled_notes.md)
+  * [Disgruntled Room Walkthrough](https://github.com/Keey-rod/try-hackme-labs/blob/main/disgruntled/disgruntled_notes.md)
     A detailed incident response and forensic analysis of the "Disgruntled" room on TryHackMe
 </details>
 
