@@ -1,9 +1,43 @@
-- 👋 Hi, I’m @Keey-rod
-- 👀 I’m interested in coding, gaming, learning new thing
-- 🌱 I’m currently learning cybersecurity, python, javascript
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
+# Welcome to My GitHub
+I'm a dedicated and detail-oriented learner actively building skills in cybersecurity, IT support, and programming. My goal is to contribute to secure, efficient, and scalable tech solutions by combining hands-on experience with formal learning. 
+
+---
+
+### About Me
+* Completed training in Information Security Analysis and IT Support
+* Experience in SOC workflows, incident response, and network troubleshooting
+* Proficient in Python, Git/GitHub, and basic scripting for automation
+* Background in customer service, device support, and team leadership
+
+---
+
+<details>
+  <summary><strong>Featured Projects</strong> (Click to expand)</summary>
+  
+  ### [Coffee Chat Bot](./code-academy-projects/Coffee%20Chatbot/coffee_chat_bot.py)
+  A command-line chatbot I built in Python that simulates a virtual coffee-ordering assistant.
+  
+  ---
+  
+  ### Security Labs & Capture The Flag (CTF) Exercises
+  * [Disgruntled Room Walkthrough](./try-hackme-labs/disgruntled/disgruntled_notes.md)
+    A detailed incident response and forensic analysis of the "Disgruntled" room on TryHackMe
+</details>
+
+---
+
+### Current Focus Areas 
+* Cybersecurity fundamentals (SOC operations, MITRE ATT&CK, IAM, cryptography)
+* IT support workflows, ticketing systems, and hardware diagnostics
+* Python scripting for automation and analysis
+* Git and version control for collaborative development
+
+---
+> "Recognize and embrace your uniqueness." - Erin Teague
+
+Feel free to explore my work, follow along, or connect!
+
+
 
 
 <!---
