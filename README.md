@@ -15,7 +15,7 @@ I'm a dedicated and detail-oriented learner actively building skills in cybersec
   <summary><strong>Featured Projects</strong> (Click to expand)</summary>
   
   ### Programming Projects
-  * [Coffee Chat Bot](https://github.com/Keey-rod/code-academy-projects/blob/main/Coffee%20Chatbot/coffee_chat_bot.py)
+  * [Coffee Chat Bot](https://github.com/Keey-rod/code-academy-projects/blob/main/Coffee%20Chatbot/README.md)
     A command-line chatbot I built in Python that simulates a virtual coffee-ordering assistant.
   
   ---
